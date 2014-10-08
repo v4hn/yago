@@ -7,7 +7,7 @@ find_package(Qt5Widgets REQUIRED)
 include_directories(include/)
 
 set(SRC
-	src/main.cpp
+	src/app.cpp
 	src/mainwindow.cpp
 )
 
